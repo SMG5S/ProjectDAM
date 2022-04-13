@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ProjectDAM</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="Inregistrare">Inregistreaza-te</string>
+    <string name="Autentificare">Autentificat-te</string>
+
+    <string name="introducere">Bine ai venit!</string>
+    <string name="conditions_text">Introduceti localitatea pentru a putea comanda produse pentru casa ta</string>
+    <string name="Judet">Judetul</string>
+    <string name="Localitatea">Localitatea</string>
+    <string name="editText1">Introdu judetul</string>
+    <string name="editText2">Introdu localitatea</string>
+    <string name="Emptytext"> </string>
+    <string name="numeprenume">Nume si Prenume</string>
+    <string name="email">Adresa E-mail</string>
+    <string name="parola">Parola</string>
+    <string name="parola2">Repeta parola</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="previous">Previous</string>
+    <string name="emptyspace"> </string>
+    <string name="butonCos">Adauga la cos</string>
+    <string name="l.d.p">LIsta de produse</string>
+    <string name="pret_name">Pret</string>
+    <string name="Name">Nume</string>
+    <string name="nbone">1</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>'
+    <string name="SC">Cart for shopping</string>
+    <string name="cos">Cosul tau</string>
+    <string name="cantitate">Cantitate</string>
+    <string name="nume">Nume</string>
+    <string name="pret">Pret</string>
+    <string name="gol">Cosul este gol</string>
+    <string name="total">Total</string>
+    <string name="comanda">Comanda</string>
+    <string name="end">Comanda dumneavoastra a fost inregistrata cu succes! Va rog reveniti mai tarziu…</string>
+</resources>

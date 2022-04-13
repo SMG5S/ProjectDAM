@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.projectdam.MainActivity">
+    <item
+        android:id="@+id/shopping_cart"
+        android:icon="@drawable/shopping"
+        android:title="@string/SC"
+        app:showAsAction="always" />
+</menu>
